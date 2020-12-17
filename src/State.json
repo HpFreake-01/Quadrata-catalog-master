@@ -1,0 +1,72 @@
+{
+  "cookie_user_id": "57e7c35d5b04a172f66f5e00",
+
+  "products": [
+    {
+      "_id": "57e7c35d5b04a172f66f5e5a",
+      "index": 0,
+      "isActive": false,
+      "name": "Goods number",
+      "description": "Description of good number one.",
+      "price": 2490,
+      "picture": "http://placehold.it/150x150"
+    },
+    {
+      "_id": "57e7c35d5b04a172f66f5e5",
+      "index": 0,
+      "isActive": false,
+      "name": "Goods number",
+      "description": "Description of good number one.",
+      "price": 2490,
+      "picture": "http://placehold.it/150x150"
+    },
+    {
+      "_id": "57e7c35d5b04a172f66e5a",
+      "index": 0,
+      "isActive": false,
+      "name": "Goods number",
+      "description": "Description of good number one.",
+      "price": 2490,
+      "picture": "http://placehold.it/150x150"
+    }
+  ],
+  "productsCategories": [
+    {
+      "id": "1",
+      "name": "Name of category",
+      "description": "Short description of god",
+      "url": "category_1"
+    },
+    {
+      "id": "2",
+      "name": "Name of category",
+      "description": "Short description of god",
+      "url": "category_2"
+    }, {
+      "id": "3",
+      "name": "Name of category",
+      "description": "Short description of god",
+      "url": "category_3"
+    }
+  ],
+  "sitemap": [
+    {
+      "url": "/",
+      "name": "Home"
+    },
+    {
+      "url": "/catalog",
+      "name": "Cataloge"
+    },
+    {
+      "url": "/about",
+      "name": "About"
+    }
+  ],
+  "cart": [
+  ],
+  "orders": [],
+  "users": [
+
+  ]
+}

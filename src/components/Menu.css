@@ -1,0 +1,18 @@
+.Menu{
+    width:240px;
+    height: 200px;
+    margin: 5px 0px 0px 5px;
+    position: fixed;
+    overflow-x: hidden;
+    z-index: 1;
+    border: black 2px solid;
+}
+
+.main_content{
+    grid-area: main_content;
+    height: 1800px;
+}
+
+.category{
+    list-style-type: none;
+}

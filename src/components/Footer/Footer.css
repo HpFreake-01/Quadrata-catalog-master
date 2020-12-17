@@ -1,0 +1,5 @@
+.Footer {
+  min-height: 50px;
+  grid-area: footer;
+  border: black 2px solid;
+}

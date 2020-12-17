@@ -1,0 +1,13 @@
+.header{
+    grid-area: header;
+    background-color:#FFF;
+    height: 100px;
+    border: black 2px solid;
+}
+
+.logo_name{
+    color: #000;
+    font-size: 1.8em;
+    font-family: Cambria;
+    padding-left: 20px;
+}
